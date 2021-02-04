@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 # drc-sim(-backend): Wii U gamepad emulator.
 #
